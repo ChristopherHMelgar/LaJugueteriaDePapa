@@ -1,0 +1,27 @@
+
+#novedades h3, h4{
+    text-align: center;
+    
+}
+
+#novedades .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#novedades article{
+    margin: 15px;
+    height: 303px;
+    
+}
+
+#novedades img{
+    width: 100%;
+    max-width: 280px;
+    padding: 15px;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+    position: relative;
+}
